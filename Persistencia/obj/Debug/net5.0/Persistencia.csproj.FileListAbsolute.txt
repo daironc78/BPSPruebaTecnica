@@ -1,0 +1,15 @@
+C:\Users\DaironCastroCasas\source\repos\BPSPruebaTecnica\Persistencia\bin\Debug\net5.0\Dominio.dll
+C:\Users\DaironCastroCasas\source\repos\BPSPruebaTecnica\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DaironCastroCasas\source\repos\BPSPruebaTecnica\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\DaironCastroCasas\source\repos\BPSPruebaTecnica\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
+C:\Users\DaironCastroCasas\source\repos\BPSPruebaTecnica\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
+C:\Users\DaironCastroCasas\source\repos\BPSPruebaTecnica\Persistencia\bin\Debug\net5.0\Persistencia.dll
+C:\Users\DaironCastroCasas\source\repos\BPSPruebaTecnica\Persistencia\bin\Debug\net5.0\ref\Persistencia.dll
+C:\Users\DaironCastroCasas\source\repos\BPSPruebaTecnica\Persistencia\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\DaironCastroCasas\source\repos\BPSPruebaTecnica\Persistencia\bin\Debug\net5.0\Dominio.pdb
+C:\Users\DaironCastroCasas\source\repos\BPSPruebaTecnica\Persistencia\obj\Debug\net5.0\Persistencia.csprojAssemblyReference.cache
+C:\Users\DaironCastroCasas\source\repos\BPSPruebaTecnica\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\DaironCastroCasas\source\repos\BPSPruebaTecnica\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CopyComplete
+C:\Users\DaironCastroCasas\source\repos\BPSPruebaTecnica\Persistencia\obj\Debug\net5.0\Persistencia.dll
+C:\Users\DaironCastroCasas\source\repos\BPSPruebaTecnica\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
+C:\Users\DaironCastroCasas\source\repos\BPSPruebaTecnica\Persistencia\obj\Debug\net5.0\Persistencia.pdb
